@@ -1,3 +1,7 @@
+![LinkedIn_Logo_2013 svg](https://user-images.githubusercontent.com/90146636/166106273-9050b8e6-934b-4498-8118-cb627daf5627.png)
+![redux-logo-landscape](https://user-images.githubusercontent.com/90146636/166106278-597e53dc-ab8f-4bd0-88a7-82e186d05486.png)
+➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️https://linkedin-clone-7adf3.firebaseapp.com/⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
